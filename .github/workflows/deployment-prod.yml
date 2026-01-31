@@ -10,7 +10,7 @@ on:
         required: true
         type: string
 env:
-  AWS_REGION: us-east-1
+  AWS_REGION: ap-south-1
   S3_BUCKET: "dennispradhan"
 
 permissions:
